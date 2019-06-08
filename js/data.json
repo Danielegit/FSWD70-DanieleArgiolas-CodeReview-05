@@ -1,0 +1,61 @@
+var arrObj = [ {
+
+
+      "name": "Mission Impossible",
+
+      "value": "1",
+
+      "pic": "img/f1.jpg",
+
+      "bio": "Some missions are not a choice. Watch the official trailer for Mission: Impossible."
+
+   }, {
+
+      "name": "John Carter",
+
+      "value": "4",
+
+      "pic": "img/f2.jpg",
+
+      "bio": "John Carter junior is a veteran of the American Civil War transported to Mars."
+
+   },{
+
+      "name": "Public Enemies",
+
+      "value": "3",
+
+      "pic": "img/f3.jpg",
+
+      "bio": " A charismatic bank robber whom the FBI declares to be Public Enemy No. 1."
+
+   },{
+
+      "name": "No Country",
+
+      "value": "3",
+
+      "pic": "img/f4.jpg",
+
+      "bio": "No Country is an American Western written and directed by  Ethan J. Coen."
+
+   },{
+
+      "name": "Batman",
+
+      "value": "2",
+
+      "pic": "img/f5.jpg",
+
+      "bio": " Batman is an American superhero  comic books published by  DC Comics. "
+
+   },{
+
+      "name": "Meat Balls",
+
+      "value": "6",
+
+      "pic": "img/f6.jpg",
+
+      "bio": "Cloudy with a Chance of Meatballs is a cartoon movie written by Judi Barrett."
+   } ]
